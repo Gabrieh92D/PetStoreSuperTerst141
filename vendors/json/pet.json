@@ -1,0 +1,16 @@
+{
+    "id": 428963201,
+    "category": {
+      "id": 0,
+      "name": "dog"
+    },
+    "name": "Thors",
+    "photoUrls": [],
+    "tags": [
+      {
+        "id": 1,
+        "name": "Vacined"
+      }
+    ],
+    "status": "available"
+  }
