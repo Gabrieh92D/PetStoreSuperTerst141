@@ -1,7 +1,7 @@
 // Bibliotecas e Framework
 const supertest = require('supertest')
  
-const petId = 173218101
+const petId = 428963201
  
 // Em JavaScript, Classe é opcional, mas pode agrupar em uma Describe
 describe('API PetStore Swagger - Entidade Pet', () =>{
